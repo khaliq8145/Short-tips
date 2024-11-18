@@ -1,4 +1,4 @@
-Certainly! Here's the guide for searching and opening configuration entries in `Android.bp` files, applicable to any device, directory, or file:
+Hello! Here's the guide for searching and opening configuration entries in `Android.bp` files, applicable to any device, directory, or file:
 
 ---
 
